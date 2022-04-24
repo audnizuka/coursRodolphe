@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/b0/d4/d1/b0d4d1d106d48d1a71319556b1f894ac.jpg);
+    display: block;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Franklin Gothic Medium';
+    text-shadow: 5px 5px 5px lightgrey;
+    background-color: whitesmoke;
+    border-radius: 3.5%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+h2+h3{
+    font-size: 1.5em;
+    font-family: 'Trebuchet MS';
+    color: lightslategrey;
+    text-shadow: 1px 1px 1px black;
+}
+
+li {
+    font-size: smaller;
+}
+
+div {
+    font-size: 1.2em;
+    background-color: whitesmoke;
+    background-position: 50%;
+    max-width: 50%;
+    border-radius: 3.5%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+ol.list {
+    display: list-item;
+    list-style-type: square;
+}
+
+.img {
+    display: block;
+    margin: auto;
+    border-radius: 4%;
+}
