@@ -1,0 +1,59 @@
+body {
+    background: radial-gradient(at top center,#CCDAE0,#EDF2F4);
+}
+header {
+    text-align: center;
+}
+#banner {
+    width: 800px;
+    height: 200px;
+}
+h1 {
+    color: #EF233C;
+    font-family: Impact;
+    font-size: xx-large;
+}
+h3 {
+    color: #2B2D42;
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+div {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+div#form {
+    border-style: none;
+}
+.img {
+    display:block;
+    width: 200px;
+    height: 100px;
+    margin-left:auto;
+    margin-right:auto;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #8D99AE;
+}
+footer {
+    text-align: right;
+}
+ul {
+    list-style-type: none;
+}
+link {
+    color: #D90429;
+}
+link:hover {
+    color: grey;
+}
+abbr {
+    color: red;
+}
